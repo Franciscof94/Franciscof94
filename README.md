@@ -1,9 +1,9 @@
-<h1 align="center">Hola 👋, Soy Francisco</h1>
-<h3 align="center">Soy desarrollador Front-end y actualmente me encuentro buscando un trabajo, soy un apasionado de la tecnologia y todo lo que tenga que ver con ella.</h3>
+<h1 align="center">Hola 👋</h1>
+<h3 align="center">Mi nombre es Francisco, soy desarrollador Front-end y actualmente me encuentro buscando un trabajo fijo, me considero un apasionado de la tecnologia y todo lo que tenga que ver con ella.</h3>
 
-- 👨‍💻 All of my projects are available at [https://franciscof94.github.io/portfolio/](https://franciscof94.github.io/portfolio/)
+- 👨‍💻 Mis proyectos: [https://franciscof94.github.io/portfolio/](https://franciscof94.github.io/portfolio/)
 
-- 📫 How to reach me **fran94_ferraro@hotmail.com**
+- 📫 Correo electronico: **fran94_ferraro@hotmail.com**
 
 <h3 align="left">Contacto</h3>
 <p align="left">
