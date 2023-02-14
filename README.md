@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋</h1>
-<h3 align="center">Mi nombre es Francisco, soy desarrollador Front-end y actualmente me encuentro buscando un trabajo fijo, me considero un apasionado de la tecnologia y todo lo que tenga que ver con ella.</h3>
+<h3 align="center">Mi nombre es Francisco, soy desarrollador Front-end y me considero un apasionado de la tecnologia y todo lo que tenga que ver con ella.</h3>
 
 - 👨‍💻 Mis proyectos: [https://franciscof94.github.io/portfolio/](https://franciscof94.github.io/portfolio/)
 
